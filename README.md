@@ -13,6 +13,4 @@
 
 <p align = "center"><img src="img/net.jpg" alt="Фото" width="300" /></p>
 
-Test
-
 
